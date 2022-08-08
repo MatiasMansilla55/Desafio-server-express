@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Acondicionador",
+    "price": "12usd",
+    "id": 1
+  },
+  {
+    "title": "Acondicionador",
+    "price": "12usd",
+    "id": 2
+  },
+  {
+    "title": "Acondicionador",
+    "price": "12usd",
+    "id": 3
+  }
+]
